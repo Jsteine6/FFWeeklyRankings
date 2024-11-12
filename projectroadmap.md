@@ -1,0 +1,12 @@
+- [x] Create title for website DONE
+- [x] Create description of the website DONE
+- [x] Create Read.me DONE
+- [x] Upload code from Walt-King/NFL-Draft-Research DONE
+- [x] Clone files to Github Desktop and upload them to Visual Studio DONE
+- [x] Run the code, locate problems under 'Problems' tab DONE
+- [x] Analyze code in Visual Studio, leave comments for each problem DONE
+- [x] Assign each problem to a group member DONE
+- [ ] Work each problem and find a solution
+- [ ] Make notes of successful changes, and also unscuccessful attempts
+- [ ] Discuss progress with group memebrs/Exchange notes
+- [x] Create power point slide to set expectation DONE
