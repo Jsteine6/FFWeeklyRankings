@@ -8,6 +8,7 @@ import os
 import json
 import string
 import glob
+import bold
 
 
 BASE_URL = 'https://www.pro-football-reference.com{0}'
